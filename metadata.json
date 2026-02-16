@@ -1,0 +1,5 @@
+{
+  "name": "DBM Training Offerings",
+  "description": "A dynamic learning and development portal for DBM HRDD training offerings connected to Google Sheets.",
+  "requestFramePermissions": []
+}
